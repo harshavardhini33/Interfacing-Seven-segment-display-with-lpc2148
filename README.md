@@ -1,14 +1,16 @@
 ## Interfacing-Seven-segment-display-with-lpc2148
-
+```
 Name: HARSHAVARDHINI M	
 Roll no : 212221240015
 Date of experiment: 23/11/22
 Ex. No. : 08
-
+```
  
 
-## Aim: To configure and display 4 character LED seven segment display and write a c code for displaying number 1 to 9 and A to F 
-## Components required: Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
+## Aim: 
+To configure and display 4 character LED seven segment display and write a c code for displaying number 1 to 9 and A to F 
+## Components required: 
+Proteus ISIS professional suite, Kiel μ vision 5 Development environment 
  ![image](https://user-images.githubusercontent.com/36288975/201021692-efa39349-1a3c-4737-aadc-1843b954c78d.png)
 Figure-01 Internal circuit for seven segment MPX4 display
 
